@@ -1,0 +1,2 @@
+graphdat-plugin-cpu-core
+========================
